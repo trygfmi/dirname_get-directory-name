@@ -368,6 +368,6 @@ which echo | xargs dirname</code></pre>
 
 
 
-<pre class="wp-block-code has-background" style="background-color:#abb8c3"><code>file_path="./folder/test.txt"
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>file_path="./folder/test.txt"
 dirname "$file_path"</code></pre>
 </div>
